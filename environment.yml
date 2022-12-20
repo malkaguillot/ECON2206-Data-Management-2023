@@ -1,0 +1,16 @@
+name: data-management
+channels:
+  - conda-forge
+dependencies:
+  - psutil
+  - toolz
+  - matplotlib
+  - pandas
+  - bs4 
+  - bokeh
+  - json
+  - numpy
+  - os
+  - pprint
+  - re
+  - requests
