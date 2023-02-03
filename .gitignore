@@ -140,3 +140,5 @@ dmypy.json
 *corr.ipynb 
 practice/*.csv
 py_helper_functions.py
+
+*DS_Store*
