@@ -142,3 +142,5 @@ practice/*.csv
 py_helper_functions.py
 
 *DS_Store*
+
+temp*
